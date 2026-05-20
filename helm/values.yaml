@@ -1,6 +1,6 @@
 image:
-  repository: youruser/my-gitops-app
-  tag: "latest"
+  repository: effickeerthi/my-gitops-app
+  tag: "v1"
 replicaCount: 2
 service:
   type: ClusterIP
